@@ -1,0 +1,13 @@
+# Ignore all unnecessary folders
+*.pyc
+*.log
+__pycache__/
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+.ipynb_checkpoints/
+AppData/
+Temp/
+*.pub
+.history
